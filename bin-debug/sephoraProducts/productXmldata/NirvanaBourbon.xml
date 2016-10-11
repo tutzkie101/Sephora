@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<category>	
+
+	<item>
+		<brand>Elizabeth and James</brand>
+		<name>Nirvana Bourbon</name>
+		<imageLocation>sephoraProducts/images/elijames.png</imageLocation>
+		<details>Elizabeth and James Nirvana Bourbon is a provocative blend of sultry vanilla bourbon, oakwood, and a hint of tuberose for a bold, oriental-woody scent with intoxicating confidence. Bringing a lightness to Nirvana, the amber toned bottle with rich gold accents blends feminine curves with contrasting architectural lines. </details>
+		<about>Elizabeth and James is an upscale-urban fashion line designed by entrepreneurial sisters Mary-Kate Olsen and Ashley Olsen. The brand distills the duality between feminine sophistication and tailored structure. Elizabeth and James’ contemporary, yet timeless aesthetic is tailored to the modern girl and her cool, unconventional style.</about>
+		<price>85.00</price>
+		<colorIn red="113" green="39" blue="14"></colorIn>
+		<colorOut red="204" green="121" blue="81"></colorOut>
+		<weblink>http://www.sephora.com/nirvana-bourbon-P410640?skuId=1849942&icid2=products%20grid:p410640</weblink>
+	</item>	
+	
+</category>

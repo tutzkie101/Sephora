@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<category>	
+
+	<item>
+		<brand>TOM FORD</brand>
+		<name>Oud Wood</name>
+		<imageLocation>sephoraProducts/images/tomford.png</imageLocation>
+		<details>Oud wood is one of the most rare, precious, and expensive ingredients in a perfumer’s arsenal. Exotic rosewood and cardamom give way to a smoky blend of rare oud wood, sandalwood, and vetiver. Tonka bean and amber add warmth and sensuality. </details>
+		<about>Tom Ford signature fragrances are inspired by perfumery’s glamorous past, when the world’s most expensive and precious ingredients were used to create one-of-a-kind scents of sophistication and luxury. From ravishing, elegant sensuality to heady, bohemian chic, and from provocative, opulent drama to cool, masculine elegance, the collection’s fragrance moods for women and men empower you to make your own luxurious statement of style</about>
+		<price>225.00</price>
+		<colorIn red="80" green="76" blue="67"></colorIn>
+		<colorOut red="83" green="72" blue="50"></colorOut>
+		<weblink>http://www.sephora.com/oud-wood-P393167?skuId=1565902&icid2=products%20grid:p393167</weblink>
+	</item>	
+	
+</category>

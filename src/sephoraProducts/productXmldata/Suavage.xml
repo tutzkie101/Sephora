@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<category>	
+
+	<item>
+		<brand>Doir</brand>
+		<name>SUAVAGE</name>
+		<imageLocation>sephoraProducts/images/suavage.png</imageLocation>
+		<details>Sauvage is a radically fresh composition that is raw and noble all at once. Natural ingredients prevail as radiant top notes burst with the juicy freshness of Reggio di Calabria bergamot. Ambroxan, derived from precious ambergris, unleashes a powerfully woody trail.</details>
+		<about>From catwalk-inspired cosmetics to cutting-edge skin care and timeless fragrances, Christian Dior has brought us some of the most luxurious, trendsetting, and fashionable beauty products around. It's this magical mix of couture-meets-cosmetics that not only attracts celebrities, supermodels, and the society set, but also has solidified Dior's reputation as one of the most unabashedly stylish beauty brands in the world.</about>
+		<price>72.00</price>	
+		<colorIn red="34" green="43" blue="58"></colorIn>
+		<colorOut red="158" green="166" blue="177"></colorOut>
+		<weblink>http://www.sephora.com/sauvage-P400057?skuId=1739317&icid2=products%20grid:p400057</weblink>
+	</item>	
+	
+</category>

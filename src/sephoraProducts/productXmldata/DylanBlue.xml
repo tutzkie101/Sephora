@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<category>	
+
+	<item>
+		<brand>Versace</brand>
+		<name>Dylan Blue</name>
+		<imageLocation>sephoraProducts/images/dylanblue.png</imageLocation>
+		<details>New and exquisite qualities of natural citrus, aquatic notes, and violet leaves combine with modern hints of fig leaf to give an incisive, Mediterranean freshness.</details>
+		<about>Led by the fashion world's most influential and provocative designer, Versace is a name that's justifiably synonymous with the ultimate in high style. So it's no surprise that their fashionable fragrances match their runway creations—natural and refined, chic and sporty, modern and feminine, and sexy and glamorous. Since the introduction of the first Versace signature fragrance in 1981, the innovative Italian label has continued to produce products that allow everyone to wear the many symbols of the Versace lifestyle: luxury, glamour, and sensuality.</about>
+		<price>65.00</price>
+		<colorIn red="33" green="67" blue="131"></colorIn>	
+		<colorOut red="208" green="148" blue="112"></colorOut>
+		<weblink>http://www.sephora.com/dylan-blue-P411325?skuId=1849199&icid2=products%20grid:p411325</weblink>
+	</item>	
+	
+</category>
